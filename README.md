@@ -9,3 +9,6 @@ Project focuses on efficient use of the data cleaning techniques for effective v
 Link to download interactive PowerBI report/dashboard....
 [mcu_report_final.zip](https://github.com/govindarbat/Project01/files/11429707/mcu_report_final.zip)
 
+
+
+![mcu-rewindFeb2023775x970-copy](https://user-images.githubusercontent.com/132916762/237061907-7bb965a8-e8cf-4abc-ab1b-7a3ec37448aa.png)
